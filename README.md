@@ -3,7 +3,7 @@ Welcome to my project
 <a href="https://master.dp4gjrndsrj6l.amplifyapp.com/">Instagram</a>
 
 # Demo
-AWS <a href="https://master.dp4gjrndsrj6l.amplifyapp.com/"></a>
+ <a href="https://master.dp4gjrndsrj6l.amplifyapp.com/">AWS</a>
 
 # Abilities 
 
