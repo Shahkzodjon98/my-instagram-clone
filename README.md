@@ -33,4 +33,8 @@ AWS <a href=""></a>
   <li>If a text post is large, then a glimpse of the post is shown and you can load more.</li>
   <li>Search users.</li>
 </ul>
-<img src=".images/home.png"/>
+<img src="./images/login.png" alt="image"/>
+<img src="./images/sign-up.png" alt="image"/>
+<img src="./images/home.png" alt="image"/>
+<img src="./images/user.png" alt="image"/>
+<img src="./images/post.png" alt="image"/>
