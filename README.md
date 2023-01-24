@@ -1,9 +1,9 @@
 # My Project Instagram
 Welcome to my project 
-<a href="https://master...amplifyapp.com ">Instagram</a>
+<a href="https://master.dp4gjrndsrj6l.amplifyapp.com/">Instagram</a>
 
 # Demo
-AWS <a href="https://master...amplifyapp.com "></a>
+AWS <a href="https://master.dp4gjrndsrj6l.amplifyapp.com/"></a>
 
 # Abilities 
 
